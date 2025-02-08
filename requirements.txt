@@ -3,4 +3,4 @@ plotlty
 scikit-learn
 streamlit
 seaborn
-matplotlib
+matplotlib.pyplot
