@@ -1,0 +1,30 @@
+body {
+    background-color: #1E1E2F;
+    color: #fff;
+    font-family: 'Arial', sans-serif;
+}
+
+header {
+    background: #FF5733;
+    padding: 20px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.logo-container {
+    display: flex;
+    align-items: center;
+}
+
+.logo {
+    max-width: 50px;
+    margin-right: 15px;
+}
+
+.section-title {
+    font-size: 22px;
+    font-weight: bold;
+    color: #FF5733;
+}
